@@ -1,0 +1,157 @@
+[
+{
+"name": "DSS Family",
+"children":
+[
+    {
+      "name": "Muskaan",
+      "children": [
+        {
+          "name": "Alleana",
+          "children": [
+            {
+              "name": "Charlie"
+            }
+          ]
+        },
+        {
+          "name": "Tanu"
+        },
+        {
+          "name": "Gayatri",
+          "children": [
+            {
+              "name": "Sydnie",
+              "children": [
+                {
+                  "name": "Sunny"
+                }
+              ]
+            },
+            {
+              "name": "Labanya",
+              "children": [
+                {
+                  "name": "Aditi",
+                  "children": [
+                    {
+                      "name": "Kartiki"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Angus"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Annie",
+      "children": [
+        {
+          "name": "Rachael"
+        },
+        {
+          "name": "Andi",
+          "children": [
+            {
+              "name": "Henry",
+              "children": [
+                {
+                  "name": "Steven",
+                  "children": [
+                    {
+                      "name": "Advait",
+                      "children": [
+                        {
+                          "name": "Omar"
+                        }
+                      ]
+
+                    },
+                    {
+                      "name": "Ryusuke"
+
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rashmika",
+              "children": [
+                {
+                  "name": "Uma"
+                },
+                {
+                  "name": "Kate",
+                  "children": [
+                    {
+                      "name": "Noor"
+                    }
+                  ]
+                },
+                {
+                  "name": "Taylor"
+                }
+              ]
+            },
+            {
+              "name": "Laeticia"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Aadi",
+      "children": [
+        {
+          "name": "Kanu"
+        },
+        {
+          "name": "Varun",
+          "children": [
+            {
+              "name": "Pranati",
+              "children": [
+                {
+                  "name": "Zac"
+                }
+              ]
+            },
+            {
+              "name": "Leo"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Rithik",
+      "children": [
+        {
+          "name": "Claudea"
+        },
+        {
+          "name": "Elton",
+          "children": [
+            {
+              "name": "Tony"
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+
+}
+
+]
